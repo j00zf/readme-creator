@@ -107,7 +107,7 @@ const Header: React.FC<HeaderProps> = ({
     <Coffee size={16} />
   </span>
   <span className="text-yellow-400 font-medium">
-    Buy Coffee
+    Buy me a Coffee
   </span>
 </Link>
 
